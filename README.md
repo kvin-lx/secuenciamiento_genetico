@@ -2,4 +2,4 @@
 
 Para ejecutar el programa se debe ejecutar el archivo `main.py` con el siguiente comando:
 
-python main.py
+python3 main.py
